@@ -159,12 +159,12 @@ ul {
   color: #fff;
   font-size: 25px;
   font-weight: 700;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .main-footer .container .social-links {
   display: flex;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .main-footer .container .social-links a {
@@ -242,7 +242,7 @@ section h2 {
   margin-top: 20px;
 }
 
-.details-bottom {}
+
 
 .details-bottom li {
   margin: 15px 0;
