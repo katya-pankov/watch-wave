@@ -1,5 +1,6 @@
 
 JavaScript-based web application utilizing the Movie Database (TMDb) API to retrieve and display information about movies and TV shows. 
+---
 ![watch-wave-index](https://github.com/katya-pankov/watch-wave/assets/108332791/e09a0f63-b8be-456a-b23a-9d2700563370)
 
 ![watch-wave-movie](https://github.com/katya-pankov/watch-wave/assets/108332791/2d66df9e-4c90-4b35-bf66-99b8239d2bc0)
