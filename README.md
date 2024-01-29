@@ -1,4 +1,4 @@
-## WatchWave App
+##WatchWave App
 
 JavaScript-based web application utilizing the Movie Database (TMDb) API to retrieve and display information about movies and TV shows. 
 ---
